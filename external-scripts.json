@@ -9,6 +9,6 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-daily-update"
+  "hubot-daily-update",
   "hubot-cron"
 ]
